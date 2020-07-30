@@ -2,7 +2,7 @@ En producción, se recomienda minimizar cualquier código JavaScript que se incl
 
 Aquí hay una manera de configurarlo:
 
-#1.[Instalar Node.js](https://nodejs.org/)
+###### 1.[Instalar Node.js](https://nodejs.org/)
 ---
 ### 2.Ejecutar `npm init -y` en la carpeta del proyecto(**no omita este paso!**)
 ---
