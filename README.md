@@ -1,11 +1,14 @@
 En producción, se recomienda minimizar cualquier código JavaScript que se incluya con la aplicación. La minificación puede ayudar a su sitio web a cargarse varias veces más rápido, especialmente a medida que aumenta el tamaño del código fuente de JavaScript.
 
 Aquí hay una manera de configurarlo:
-+
+
 1.[Instalar Node.js](https://nodejs.org/)
+---
 2.Ejecutar `npm init -y` en la carpeta del proyecto(**no omita este paso!npm init**)
+---
 3.Ejecutar `npm install terser`
-+
+---
+
 
 Ahora, para minimizar un archivo llamado `example.js`, ejecute en el terminal o la línea de comandos
 
